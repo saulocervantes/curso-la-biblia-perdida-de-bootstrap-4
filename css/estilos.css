@@ -1,0 +1,18 @@
+:root{
+    --texto: red;
+    --principal: pink;
+    --secundario: orange;
+}
+
+/* Estilos de prueba */
+.container{
+    border: 1px solid red;
+}
+
+.row{
+    border: 1px solid blue;
+}
+
+.row>*{
+    border: 1px solid green;
+}
